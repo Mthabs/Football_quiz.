@@ -9,5 +9,14 @@
 
 body{
     
-    background-color: #F3FFFF;
+    background-color: #F3FFFF; 
+}
+.home_page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 65%;
+    margin: 0PX auto;
+    height: 620px;
 }
