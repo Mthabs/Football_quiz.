@@ -20,3 +20,21 @@ body{
     margin: 0PX auto;
     height: 620px;
 }
+.home_page>*{
+    padding: 10PX;
+    margin: 10PX;
+    border-radius: 10px;
+}
+.hom_heading{
+    width: 95%;
+    height: 100px;
+    margin: 30px;
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      font-size: 35px;
+      text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+      0px -4px 10px rgba(255,255,255,0.3);
+  }
